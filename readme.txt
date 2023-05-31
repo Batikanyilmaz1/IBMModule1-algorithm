@@ -22,3 +22,4 @@ After activating the virtual environment, you should see the (env) prefix in you
 5-Run the code: You can run the code by executing the script file (ibm_model_1.py) using the following command: python ibm_model_1.py
 
 This will run the code and print the translation probabilities for each Turkish-English word pair.
+
